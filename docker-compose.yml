@@ -20,5 +20,6 @@ services:
     image: logstash:7.14.2
     ports:
     - '5000:5000'
+    - '5140:5140'
     volumes:
       - ./logstash_pipeline/:/usr/share/logstash/pipeline
