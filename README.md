@@ -1,5 +1,5 @@
 # ELK-docker-compose
-Elasticsearch, Logstach, Kibana docker-compode configuration
+Elasticsearch, Logstach, Kibana docker-compose configuration
 
 
 <pre>
